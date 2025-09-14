@@ -1,0 +1,10 @@
+2c25a63 Create repo-location.txt
+9c74fa6 Merge pull request #2 from Booooni/feature-about-me
+c77ac69 Merge branch 'main' into feature-about-me
+695947e Update index.html
+36c86ba Setup index for groupmate
+f37cdce Replicate assignment-1 index
+2221a86 Merge pull request #1 from JValenzuela1/feature-about-me
+bad1d21  Please enter the commit message for your changes. Lines starting
+740ccd1 Adding an index template for students
+7790057 first commit
